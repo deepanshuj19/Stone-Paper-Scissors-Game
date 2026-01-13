@@ -22,14 +22,13 @@ SCORES → Update live display
 REPEAT → Next round instantly!
 
 ## 📁 Full Project Structure
-.
-├── index.html (3 choices + score board + msg container)
-├── game.css (dark theme + hover animations)
-├── game.js (complete RPS logic + scoring)
-└── images/ (rock.png, paper.png, scissor.png)
+- index.html (3 choices + score board + msg container)
+- game.css (dark theme + hover animations)
+- game.js (complete RPS logic + scoring)
+  images/ (rock.png, paper.png, scissor.png)
 
 ## 🎯 Sample Gameplay
-You: Rock → AI: Paper
+You: Rock → AI: Paper 
 → "You lost! paper beats your rock" (RED)
 Scores: You 0 | Computer 1
 
