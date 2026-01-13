@@ -38,9 +38,14 @@ You: Scissors → AI: Paper
 Scores: You 1 | Computer 
 
 ## 🔮 Future Features
-Best-of-10 with reset button
-Win streak counter
-Animated choice reveals
-Sound effects
-localStorage high scores
-Confetti on 5-win streak
+- Best-of-10 with reset button
+
+- Win streak counter
+
+- Animated choice reveals
+
+- Sound effects
+
+- localStorage high scores
+
+- Confetti on 5-win streak
